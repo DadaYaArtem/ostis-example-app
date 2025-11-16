@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/problem-solver/cxx/**",
+        "${workspaceFolder}/.conan2/sc-machine-headers/sc-memory/sc-memory/include",
+        "${workspaceFolder}/.conan2/sc-machine-headers/scl-machine/problem-solver",
+        "${workspaceFolder}/.conan2/sc-machine-headers/ps-common-lib/problem-solver"
+    ],
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.hpp": "cpp",
+        "*.cpp": "cpp"
+    }
+}
