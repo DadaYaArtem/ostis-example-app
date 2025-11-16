@@ -1,9 +1,9 @@
 .idea
-.vscode
 
 bin/
 build/
 install/
+.conan2/
 *.bin
 repo
 
